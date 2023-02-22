@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
+  githubUsername: "ammadhh",
+  name: "Ammad Hassan",
+  designation: "Software Developer, Quantitative Trader",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "ammadh@umich.edu",
+  phone: "+1 7347875958",
+  address: "Ann Arbor, Michigan, United States.",
   projects: [
     {
       title: "Tailwind Master Kit",
@@ -16,37 +16,7 @@ const userData = {
       title: "PlaceholderTech",
       link: "https://placeholdertech.in",
       imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    }
   ],
   about: {
     title:
@@ -97,19 +67,19 @@ const userData = {
     },
     {
       title: "High School",
-      company: "Delhi Public School, Jaipur.",
-      year: "2015",
+      company: "Salem High School, Canton.",
+      year: "2021",
       companyLink: "https://upes.co.in",
       desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "https://docs.google.com/document/d/1DgpCte4dN8vIYadNJ6TvFNlx5pDEp807/edit?usp=sharing&ouid=107225542465040852236&rtpof=true&sd=true",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    instagram: "https://www.instagram.com/ammad1_/",
+    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/ammad-hassan-492380216/",
+    github: "https://github.com/ammadhh?tab=repositories",
     facebook: "https://facebook.com/",
   },
 };
