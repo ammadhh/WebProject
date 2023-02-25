@@ -11,11 +11,6 @@ const userData = {
       title: "Twitter Sentiment Analysis",
       link: "https://github.com/tsherman181/MDST_Twitter",
       imgUrl: "/tmk.jpg",
-    },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
     }
   ],
   about: {

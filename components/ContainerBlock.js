@@ -8,7 +8,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Ammad Hassan - Software Developer, Writer, Creator and YouTuber",
+    title: "Ammad Hassan - Software Developer, Writer, Creator",
     description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
     image: "/avatar.png",
     type: "website",
