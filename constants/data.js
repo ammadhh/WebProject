@@ -27,7 +27,7 @@ const userData = {
       `But now, I'm a legend. I've been coding in Python, Julia, Javascript, Node.js, MongoDB, MySQL, , C++, C#, Bash, Assembly, programming language etc to name a few`,
     ],
     currentProject: "Upcoming Unreleased",
-    currentProjectUrl: "https://github.com/tsherman181/MDST_Twitter,
+    currentProjectUrl: "https://github.com/tsherman181/MDST_Twitter"
   },
   experience: [
     {
